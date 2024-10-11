@@ -1,0 +1,53 @@
+#destination-section {
+  margin-top: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 200px;
+}
+
+#left-side {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.circle {
+  height: 56px;
+  width: 56px;
+  border-radius: 30px;
+  border: 15px;
+  background-color: black;
+  color: #16a94a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+#line {
+  height: 480px;
+  position: absolute;
+  margin-top: 283px;
+  margin-left: 27px;
+  border-left: 2px dotted black;
+  z-index: -10;
+}
+
+#bigger {
+  font-size: 50px;
+  margin-bottom: 200px;
+}
+
+h2 {
+  color: #ababab;
+  margin-bottom: 0px;
+}
+
+#map {
+  height: 845px;
+  width: 692px;
+}
+#right-side {
+  width: 60%;
+}

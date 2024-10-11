@@ -1,0 +1,23 @@
+#ready-container {
+  margin-top: 300px;
+  background-color: #171717;
+  height: 393px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#question {
+  color: #ffffff;
+}
+#order {
+  height: 44px;
+  width: 130px;
+  background-color: #18ba51;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 40px;
+}

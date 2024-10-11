@@ -1,0 +1,38 @@
+#hero-container {
+  margin-top: 120px;
+  width: 1200px;
+  height: 605px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 160px;
+  gap: 100px;
+}
+h1 {
+  color: #303030;
+  display: flex;
+  height: 0px;
+  size: 30px;
+}
+
+h2 {
+  color: #ababab;
+}
+
+#text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: large;
+  gap: 20px;
+}
+
+#annoying {
+  font-size: xx-large;
+}
+
+#image-container {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+}
